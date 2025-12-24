@@ -1,0 +1,24 @@
+---
+title: "APES Stats Help"
+format: html
+editor: visual
+---
+
+Jason is available to provide assistance on statistical matters related to research or student projects.
+
+Jason is happy to provide guidance regarding:
+
+* study design and planning for data collection;
+* data entry and management;
+* data analysis;
+* interpretation;
+* presentation.
+
+Note that these tasks are done with the intention of developing competence in research methods.  With this in mind, Jason will not:
+
+* wrangle an ugly data set;
+* fight with R code;
+* conduct the analysis;
+* write up the results.
+
+If you would like to book a time to see Jason, visit the booking page:
